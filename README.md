@@ -1,5 +1,4 @@
-![Famebook](https://s3.amazonaws.com/kxiao/banner.png)
- 
+# Famebook
 ## Overview
 Famebook is a demo news and social media aggregator where users can view generated profiles of famous people 
 and see their recent activity in the world.
